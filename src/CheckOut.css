@@ -1,0 +1,25 @@
+.checkout{
+        display: flex;
+        padding: 20px;
+        background-color: white;
+        height: max-content;
+        flex-direction: column;
+}
+.checkout_Ad_Image{
+width: 1700px;
+height: 220px;
+margin-bottom: 10px;
+
+
+}
+.checkout_title{
+       
+        border-bottom: 1px solid lightcoral;
+ 
+}
+
+.checkout_left{
+        display: flex;
+       
+}
+
